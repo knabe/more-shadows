@@ -2,12 +2,12 @@ More Shadows
 ============
 ######Four Shadows - More Shadows
 
-This is a knock off of Four Shadows created by Santhosh Sundar created https://github.com/Gigacore/four-shadows.
+This is a modification of Four Shadows created by Santhosh Sundar  https://github.com/Gigacore/four-shadows.
 
 'An approach to replace conventional 5 o'clock shadow for iconography with intelliegent time-aware, algorithm driven shadows using simple sprites. The direction of shadow changes according to the time of the day and based on the direction of the 'hour hand' of an analog clock. This results in natural and enriched user experience on the web. '
 
 ######I wanted more shadows!
-I also wanted this to not use sprites and work with SVG.
+This supports 12 shadow positions based on the time of day. I also wanted this to not use sprites and work with SVG.
 
 ![Screenshot](http://i.imgur.com/WzZIrs0.gif)
 
