@@ -1,6 +1,6 @@
 Four Shadows
 ============
-######Four Shadows
+######Four Shadows - More Shadows
 
 This is a knock off of Four Shadows created by Santhosh Sundar created https://github.com/Gigacore/four-shadows.
 
