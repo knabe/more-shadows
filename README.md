@@ -46,14 +46,15 @@ Customizations
 	$el	: $('.ms-cast'),
 	}
 ```
-Demo
+
+Supported Browsers
 ===================
-This only works in webkit browsers by default.
-A polyfill for other browsers is here: https://github.com/Schepp/CSS-Filters-Polyfill
+This only works in webkit browsers.
+To support non webkit browsres use this polyfill: https://github.com/Schepp/CSS-Filters-Polyfill
 
 Demo
 ===================
-http://gigacore.github.io/demos/fs/
+soon
 
 
 
